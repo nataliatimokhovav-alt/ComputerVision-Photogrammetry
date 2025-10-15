@@ -1,17 +1,17 @@
-# 🧠 Computer Vision Lab 3 – Feature Detection and Matching  
+# Computer Vision Lab 3 – Feature Detection and Matching  
 **Date:** October 3, 2025  
 **University:** Luleå University of Technology  
 **Course:** Computer Vision  
 
 ---
 
-## 📘 Overview
+## Overview
 This lab introduces students to **feature detection and matching techniques** used in modern computer vision.  
 You will implement, evaluate, and compare **corner detectors** and **feature descriptors**, and apply them to **real-world robotic stereo data**.
 
 ---
 
-## 🎯 Learning Outcomes
+## Learning Outcomes
 By completing this lab, you will be able to:
 
 - Implement and evaluate the **Harris Corner Detector**.  
@@ -21,14 +21,14 @@ By completing this lab, you will be able to:
 
 ---
 
-## 🧰 Tools & Libraries
+## Tools & Libraries
 - **Python**
 - **OpenCV**
 - **NumPy / Matplotlib**
 
 ---
 
-## 🧪 Assignments
+## Assignments
 
 ### **Task 1: Harris Corner Detector**
 **Objective:** Implement and evaluate Harris corner detection.  
@@ -72,15 +72,15 @@ By completing this lab, you will be able to:
 - N_failed = N_total − N_valid
 
    Also measure:
-   - **Frames per second (FPS)**
-   - **Average number of matched features**
-   - **Number of failed matches**
+   - Frames per second (FPS)
+   - Average number of matched features
+   - Number of failed matches
 
 3. Visualize matches for a representative frame.
 
 ---
 
-## 🧠 Reflection
+## Reflection
 This lab demonstrates how **feature detection and matching** underpin many real-world computer vision and robotics tasks.  
 Through systematic experimentation, we gain insights into how detector design, descriptor choice, and geometric models affect both **accuracy** and **real-time performance**.
 
