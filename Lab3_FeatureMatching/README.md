@@ -1,4 +1,4 @@
-# 🧠 Computer Vision Lab – Feature Detection and Matching  
+# 🧠 Computer Vision Lab 3 – Feature Detection and Matching  
 **Date:** October 3, 2025  
 **University:** Luleå University of Technology  
 **Course:** Computer Vision  
