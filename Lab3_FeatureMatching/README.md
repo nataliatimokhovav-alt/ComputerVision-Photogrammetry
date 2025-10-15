@@ -67,15 +67,9 @@ By completing this lab, you will be able to:
 1. Implement **real-time feature matching** between left/right image pairs.  
 2. Compute performance metrics:
 
-   \[
-   N_{total} = \text{Total features in left image}
-   \]
-   \[
-   N_{valid} = \text{Number of geometrically valid matches}
-   \]
-   \[
-   N_{failed} = N_{total} - N_{valid}
-   \]
+- N_total — total features in the left image  
+- N_valid — number of geometrically valid matches  
+- N_failed = N_total − N_valid
 
    Also measure:
    - **Frames per second (FPS)**
